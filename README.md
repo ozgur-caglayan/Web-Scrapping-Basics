@@ -4,5 +4,4 @@ Web scraping is a term for various methods used to collect information from acro
 
 Web scraping is also called Web data extraction, screen scraping or Web harvesting.
                                                                                                       
-                                                                                                      
-                                                                                                      ~www.techopedia.com
+~  www.techopedia.com
